@@ -6,22 +6,7 @@ Welcome to my repository for projects completed during the Master of Science in 
 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- [D596: Data Analytics Journey](#d596-data-analytics-journey)
-  - [Task 1: The Data Analytics Life Cycle](#task-1-the-data-analytics-life-cycle)
-  - [Task 2: Careers and Career Goals](#task-2-careers-and-career-goals)
-- [D597: Data Management](#d597-data-management) IN PROGRESS
-  - [Task 1: Relational Database Design and Implementation](#task-1-relational-database-design-and-implementation)
-  - [Task 2: Non-Relational Database Design and Implementation](#task-2-non-relational-database-design-and-implementation)
-- [D598: Analytics Programming](#d598-analytics-programming) IN PROGRESS
-  - [Task 1: Program Planning](#task-1-program-planning)
-  - [Task 2: Coding](#task-2-coding)
-  - [Task 3: Presentation](#task-3-presentation)
-- [D599: Data Preparation and Exploration](#d599-data-preparation-and-exploration) FUTURE ENROLLMENT
-- [D600: Statistical Data Mining](#d600-statistical-data-mining) FUTURE ENROLLMENT
-- [D601: Data Storytelling for Varied Audiences](#d601-data-storytelling-for-varied-audiences) FUTURE ENROLLMENT
-- [D602: Deployment](#d602-deployment) FUTURE ENROLLMENT
-- [D603: Machine Learning](#d603-machine-learning) FUTURE ENROLLMENT
-- [D604: Advanced Analytics](#d604-advanced-analytics) FUTURE ENROLLMENT
+- [WGU MSDA Overview](#wgu-msda-overview)
 - [Contact](#contact)
 
 ## Introduction
@@ -40,125 +25,37 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 - PostgreSQL: For relational database management.
 - Jupyter Notebook: For documenting and sharing analysis.
 
-## D596: Data Analytics Journey
+## WGU MSDA Overview
 
-### Description
-
-In this class, we explored how to effectively use data and statistical methods to create impactful stories that drive business decisions and add value. The course covered the complete analytics process, including:
-
-- Data Collection and Analysis: Understanding how to gather and analyze data effectively.
-- Project Management: Learning to manage and present data projects.
-- Business Questions: Asking the right questions to gain valuable insights.
-- Success Metrics: Setting up ways to measure the success of data projects.
-- Effective Communication: Communicating findings clearly and aligning them with business goals.
-
-The course also provided an overview of different specializations within data analytics and the career opportunities available in these fields.
-
-Two tasks were completed as part of the course. 
-
-### Task 1: The Data Analytics Life Cycle 
-
-In this project, I:
-
-1. Reflected on Personal Experience:
-
-- Described each phase of the data analytics life cycle based on my own experiences.
-- Identified areas where I need further expertise.
-  
-2. Applied a Data Tool or Technique:
-
-- Chose a data analytics tool or technique and explored its use in a familiar organization.
-- Assessed potential challenges and summarized my findings.
-This project connected theoretical knowledge with practical application, enhancing my understanding of the data analytics life cycle.
-
-### Task 2: Careers and Career Goals
-
-In this task, I:
-
-1. Created a Career Plan:
-
-- Differentiated between three roles or careers in data analytics.
-- Compared various data analytics disciplines and evaluated my academic skills and needs for these careers.
-
-2, Used CliftonStrengths Tool:
-
-- Assessed my career strengths using the CliftonStrengths tool.
-- Reflected on and described my personalized results.
-- This project helped me understand different career paths in data analytics and align them with my strengths and skills.
-
-
-
-## D597: Data Management 
-
-### Description 
-
-The Data Management course focuses on building proficiency in both relational and non-relational databases. Key topics covered include:
-
-- Selection of Data Storage Architecture: Choosing the right data storage solutions based on business requirements.
-- Data Types and Structures: Understanding different types of data and how they are organized.
-- Normalization and Denormalization: Techniques for optimizing database design to reduce redundancy and improve efficiency.
-- Querying Databases: Using SQL to interact with databases, including:
-  - Data Definition Language (DDL): Creating and modifying database schemas.
-  - Data Manipulation Language (DML): Querying and modifying data within the database.
-- Joins, Aggregations, and Transactions: Advanced SQL features for combining data, performing calculations, and managing data integrity.
-
-Additionally, the course contrasts non-relational approaches with relational methods, highlighting how to adapt data storage architectures to meet varying business needs.
-
-Two tasks were completed as part of the course. 
-
-### Task 1: Relational Database Design and Implementation
-
-### Task 2: Non-Relational Database Design and Implementation
-
-## D598: Analytics Programming
-
-### Description
-
-The Analytics Programming course develops algorithmic thinking through the use of both Python and R programming languages. Key elements of the course include:
-
-- Foundations of Programming: Building a strong base in programming concepts.
-- Using Libraries and Packages: Employing libraries and packages to handle common analytics tasks such as acquiring, organizing, and manipulating datasets.
-- Statistical Functions and Graphical User Interfaces: Applying statistical methods and creating graphical user interfaces to perform basic analyses and present findings effectively.
-
-This course emphasizes practical skills in programming for analytics, helping learners to perform and communicate data analyses efficiently.
-
-Three tasks were completed as part of the course. 
-
-### Task 1: Program Planning
-
-### Task 2: Coding
-
-### Task 3: Presentation
-
-
-## D599: Data Preparation and Exploration
-
-
-
-## D600: Statistical Data Mining
-
-
-
-## D601: Data Storytelling for Varied Audiences
-
-
-
-## D602: Deployment
-
-
-
-## D603: Machine Learning
-
-
-## D604: Advanced Analytics
-
-
-
-## D605: Optimization 
-
-
-
-## D606: Capstone
+| Title of Class                         | Class Summary              | Task                                                        | Video               | Status       |
+|----------------------------------------|----------------------------|-------------------------------------------------------------|---------------------|--------------|
+| The Data Analytics Journey             | Summary of D596            | Task 1: The Data Analytics Life Cycle                       | NA                  | Completed    |
+|                                        |                            | Task 2: Careers and Career Goals                            | NA                  | Completed    |
+| Data Management                        | Summary of D597            | Task 1: Relational Database Design and Implementation       | [Video Link 3](#)   | Completed    |
+|                                        |                            | Task 2: Non-Relational Database Design and Implementation   | [Video Link 4](#)   | Completed    |
+| Analytics Programming                  | Summary of D598            | Task 1: Program Planning                                    | NA                  | Completed    |
+|                                        |                            | Task 2: Coding                                              | NA                  | Completed    |
+|                                        |                            | Task 3: Presentation                                        |                     | In Progress  |
+| Data Preparation and Exploration       | Summary of D599            | Task 1: Data Cleaning and Profiling                         |                     | Not Started  |
+|                                        |                            | Task 2: Data Exploration                                    |                     | Not Started  |
+|                                        |                            | Task 3: Market Basket Analysis                              |                     | Not Started  |
+| Statistical Data Mining                | Summary of D600            | Task 1 for Class 5                                          |                     | Not Started  |
+|                                        |                            | Task 2 for Class 5                                          |                     | Not Started  |
+|                                        |                            | Task 3 for Class 5                                          |                     | Not Started  |
+| Data Storytelling for Varied Audiences | Summary of D601            | Task 1 for Class 6                                          |                     | Not Started  |
+|                                        |                            | Task 2 for Class 6                                          |                     | Not Started  |
+|                                        |                            | Task 3 for Class 6                                          |                     | Not Started  |
+| Deployment                             | Summary of D602            | Task 1 for Class 7                                          |                     | Not Started  |
+|                                        |                            | Task 2 for Class 7                                          |                     | Not Started  |
+|                                        |                            | Task 3 for Class 7                                          |                     | Not Started  |
+| Machine Learning                       | Summary of D603            | Task 1 for Class 8                                          |                     | Not Started  |
+|                                        |                            | Task 2 for Class 8                                          |                     | Not Started  |
+| Advanced Analytics                     | Summary of D604            | Task 1 for Class 9                                          |                     | Not Started  |
+|                                        |                            | Task 2 for Class 9                                          |                     | Not Started  |
+| Optimization                           | Summary of D605            | Task 1 for Class 10                                         |                     | Not Started  |
+|                                        |                            | Task 2 for Class 10                                         |                     | Not Started  |
+| Data Science Capstone                  | Summary of D606            | Task 1 for Class 11                                         |                     | Not Started  |
+|                                        |                            | Task 2 for Class 11                                         |                     | Not Started  |
 
 
 ## Contact 
