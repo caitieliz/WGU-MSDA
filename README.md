@@ -27,35 +27,19 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 
 ## WGU MSDA Overview
 
-| Title of Class                         | Class Summary              | Task                                                        | Video               | Status       |
-|----------------------------------------|----------------------------|-------------------------------------------------------------|---------------------|--------------|
-| The Data Analytics Journey             | Summary of D596            | Task 1: The Data Analytics Life Cycle                       | NA                  | Completed    |
-|                                        |                            | Task 2: Careers and Career Goals                            | NA                  | Completed    |
-| Data Management                        | Summary of D597            | Task 1: Relational Database Design and Implementation       | [Video Link 3](#)   | Completed    |
-|                                        |                            | Task 2: Non-Relational Database Design and Implementation   | [Video Link 4](#)   | Completed    |
-| Analytics Programming                  | Summary of D598            | Task 1: Program Planning                                    | NA                  | Completed    |
-|                                        |                            | Task 2: Coding                                              | NA                  | Completed    |
-|                                        |                            | Task 3: Presentation                                        |                     | In Progress  |
-| Data Preparation and Exploration       | Summary of D599            | Task 1: Data Cleaning and Profiling                         |                     | Not Started  |
-|                                        |                            | Task 2: Data Exploration                                    |                     | Not Started  |
-|                                        |                            | Task 3: Market Basket Analysis                              |                     | Not Started  |
-| Statistical Data Mining                | Summary of D600            | Task 1 for Class 5                                          |                     | Not Started  |
-|                                        |                            | Task 2 for Class 5                                          |                     | Not Started  |
-|                                        |                            | Task 3 for Class 5                                          |                     | Not Started  |
-| Data Storytelling for Varied Audiences | Summary of D601            | Task 1 for Class 6                                          |                     | Not Started  |
-|                                        |                            | Task 2 for Class 6                                          |                     | Not Started  |
-|                                        |                            | Task 3 for Class 6                                          |                     | Not Started  |
-| Deployment                             | Summary of D602            | Task 1 for Class 7                                          |                     | Not Started  |
-|                                        |                            | Task 2 for Class 7                                          |                     | Not Started  |
-|                                        |                            | Task 3 for Class 7                                          |                     | Not Started  |
-| Machine Learning                       | Summary of D603            | Task 1 for Class 8                                          |                     | Not Started  |
-|                                        |                            | Task 2 for Class 8                                          |                     | Not Started  |
-| Advanced Analytics                     | Summary of D604            | Task 1 for Class 9                                          |                     | Not Started  |
-|                                        |                            | Task 2 for Class 9                                          |                     | Not Started  |
-| Optimization                           | Summary of D605            | Task 1 for Class 10                                         |                     | Not Started  |
-|                                        |                            | Task 2 for Class 10                                         |                     | Not Started  |
-| Data Science Capstone                  | Summary of D606            | Task 1 for Class 11                                         |                     | Not Started  |
-|                                        |                            | Task 2 for Class 11                                         |                     | Not Started  |
+| Class                                           | Tasks                     | Videos                    | Status      | Date Completed |
+|-------------------------------------------------|---------------------------|---------------------------|-------------|----------------|
+| Data Analytics Journey                          | Task 1, Task 2, Task 3    | NA                        | Completed   | 8/5/2024       |
+| Data Management                                 | Task 1, Task 2            | Video 1, Video 2          | In Progress |                |
+| Analytics Programming                           | Task 1, Task 2, Task 3    | NA                        | Completed   | 8/22/2024      |
+| Data Preparation and Exploration                | Task 1, Task 2, Task 3    | Video 1, Video 2, Video 3 | In Progress |                |
+| Statistical Data Mining                         |                           |                           | Not Started |                |
+| Data Storytelling for Diverse Audiences         |                           |                           | Not Started |                |
+| Deployment                                      |                           |                           | Not Started |                |
+| Machine Leaerning                               |                           |                           | Not Started |                |
+| Advanced Analytics                              |                           |                           | Not Started |                |
+| Optimization                                    |                           |                           | Not Started |                |  
+| Capstone Project                                |                           |                           | Not Started |                |
 
 
 ## Contact 
