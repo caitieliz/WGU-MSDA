@@ -29,14 +29,14 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 
 | Class                                           | Tasks                     | Videos                    | Status      | Date Completed |
 |-------------------------------------------------|---------------------------|---------------------------|-------------|----------------|
-| Data Analytics Journey                          | Task 1, Task 2, Task 3    | NA                        | Completed   | 8/5/2024       |
-| Data Management                                 | Task 1, Task 2            | Video 1, Video 2          | In Progress |                |
-| Analytics Programming                           | Task 1, Task 2, Task 3    | NA                        | Completed   | 8/22/2024      |
-| Data Preparation and Exploration                | Task 1, Task 2, Task 3    | Video 1, Video 2, Video 3 | In Progress |                |
-| Statistical Data Mining                         |                           |                           | Not Started |                |
-| Data Storytelling for Diverse Audiences         |                           |                           | Not Started |                |
-| Deployment                                      |                           |                           | Not Started |                |
-| Machine Leaerning                               |                           |                           | Not Started |                |
+| [Data Analytics Journey](./Data_Analytics_Journey/README.md)                          | Task 1, Task 2, Task 3    | NA                        | Completed   | 8/5/2024       |
+| [Data Management](./Data_Management/README.md)                                 | Task 1, Task 2            | Video 1, Video 2          | In Progress |                |
+| [Analytics Programming](./Analytics_Programming/README.md)                           | Task 1, Task 2, Task 3    | NA                        | Completed   | 8/22/2024      |
+| [Data Preparation and Exploration](#data-preparation-and-exploration)                | Task 1, Task 2, Task 3    | Video 1, Video 2, Video 3 | In Progress |                |
+| [Statistical Data Mining](#statistical-data-mining)                         |                           |                           | Not Started |                |
+| [Data Storytelling for Diverse Audiences](#data-storytelling-for-diverse-audiences)         |                           |                           | Not Started |                |
+| [Deployment](#deployment)                                      |                           |                           | Not Started |                |
+| [Machine Learning](#machine-learning)                              |                           |                           | Not Started |                |
 | Advanced Analytics                              |                           |                           | Not Started |                |
 | Optimization                                    |                           |                           | Not Started |                |  
 | Capstone Project                                |                           |                           | Not Started |                |
