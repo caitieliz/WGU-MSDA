@@ -24,6 +24,9 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 - scikit-learn: For implementing machine learning models.
 - PostgreSQL: For relational database management.
 - Jupyter Notebook: For documenting and sharing analysis.
+- MongoDB: For NoSQL database management and handling unstructured data.
+- pgAdmin: For managing PostgreSQL databases with a graphical interface.
+
 
 ## WGU MSDA Overview
 
